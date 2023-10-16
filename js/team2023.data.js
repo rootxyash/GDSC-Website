@@ -6,7 +6,7 @@ let facul = [
   {
     id: 0,
     name: "Mrs. Rasika Rewatkar",
-    avatar: "../assets/img/team/rashika.png",
+    avatar: "../assets/img/team/rasikamam.png",
     badges: `
       <span class="red">Professor</span>
       <span class="green">KITS, Ramtek</span>
@@ -125,7 +125,7 @@ let coreMembersDetails2023 = [
   {
     id:4,
     name:"Sujal Taware",
-    avatar: "../assets/img/team/kusum.png",
+    avatar: "../assets/img/team/sujal.png",
     badges: `
       <span class="green">Design and Content Team</span>
       <span class="red">Head</span>
