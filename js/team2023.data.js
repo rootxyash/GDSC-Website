@@ -125,7 +125,7 @@ let coreMembersDetails2023 = [
   {
     id:4,
     name:"Sujal Taware",
-    avatar: "../assets/img/team/sujal.png",
+    avatar: "../assets/img/team/kusum.png",
     badges: `
       <span class="green">Design and Content Team</span>
       <span class="red">Head</span>
