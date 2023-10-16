@@ -140,73 +140,6 @@ let coreMembersDetails2023 = [
 
 // Extended Core Members Details 2023
 
-let coreMembersDetails2023 = [
-  {
-    id:0,
-    name:"Param Chauragade",
-    avatar: "../assets/img/team/.png",
-    badges: `
-      <span class="green">Web Devlopment</span>
-      <span class="blue">Head</span>
-      `,
-    cardBorderColor: "red",
-    socialGithubLink: "",
-    socialLinkedinLink: "",
-    socialTwitterLink: "",
-  },
-  {
-    id:1,
-    name:"Yash Raut",
-    avatar: "../assets/img/team/raut.png",
-    badges: `
-      <span class="red">Android Development</span>
-      <span class="yellow">Head</span>
-    `,
-    cardBorderColor: "blue",
-    socialGithubLink: "",
-    socialLinkedinLink: "",
-    socialTwitterLink: "",
-  },
-  {
-    id:2,
-    name:"Sameer Tarare",
-    avatar: "../assets/img/team/sameer.png",
-    badges: `
-      <span class="blue">Cybersecurity</span>
-      <span class="red">Head</span>
-    `,
-    cardBorderColor: "green",
-    socialGithubLink: "",
-    socialLinkedinLink: "",
-    socialTwitterLink: "",
-  },
-  {
-    id:3,
-    name:"Rahul Salame",
-    avatar: "../assets/img/team/rahul.png",
-    badges: `
-      <span class="green">Management Team</span>
-      <span class="blue">Head</span>
-    `,
-    cardBorderColor: "yellow",
-    socialGithubLink: "",
-    socialLinkedinLink: "",
-    socialTwitterLink: "",
-  },
-  {
-    id:4,
-    name:"Sujal Taware",
-    avatar: "../assets/img/team/kusum.png",
-    badges: `
-      <span class="green">Design and Content Team</span>
-      <span class="red">Head</span>
-    `,
-    cardBorderColor: "red",
-    socialGithubLink: "",
-    socialLinkedinLink: "",
-    socialTwitterLink: "",
-  },
-]
 
 
 /* ********************************************************** */
@@ -289,4 +222,3 @@ Object.values(exCoreMemberDetails2023).map((val) => {
         </div>
     `;
 });
-
