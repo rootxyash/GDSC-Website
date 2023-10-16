@@ -144,7 +144,7 @@ let coreMembersDetails2023 = [
   {
     id:0,
     name:"Param Chauragade",
-    avatar: "../assets/img/team/kusum.png",
+    avatar: "../assets/img/team/.png",
     badges: `
       <span class="green">Web Devlopment</span>
       <span class="blue">Head</span>
