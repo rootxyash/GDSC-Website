@@ -6,14 +6,14 @@ let facul = [
   {
     id: 0,
     name: "Mrs. Rasika Rewatkar",
-    avatar: "../assets/img/team/Dr.DKK.jfif",
+    avatar: "../assets/img/team/rashika.png",
     badges: `
       <span class="red">Professor</span>
       <span class="green">KITS, Ramtek</span>
     `,
     cardBorderColor: "blue",
     // socialGithubLink: "#",
-    socialLinkedinLink: "https://www.linkedin.com/in/dipak-kumar-kole-a2a4ab38/",
+    socialLinkedinLink: "",
     // socialTwitterLink: "#",
 
   }
@@ -23,7 +23,7 @@ let leadMemberDetails2023 = [
   {
     id: 0,
     name: "Sejal Chaurasia",
-    avatar: "../assets/img/team/Shreya_lead_23.jfif",
+    avatar: "../assets/img/team/sejal.png",
     badges: `
                     <span class="blue">2023</span>
                     <span class="green">GDSC</span>
@@ -31,14 +31,14 @@ let leadMemberDetails2023 = [
                 `,
     cardBorderColor: "red",
 
-    socialGithubLink: "https://github.com/zugzwang03",
-    socialLinkedinLink: "https://www.linkedin.com/in/shreya-sarkar-a788b4225/",
-    socialTwitterLink: "https://twitter.com/zugzwang03",
+    socialGithubLink: "",
+    socialLinkedinLink: "",
+    socialTwitterLink: "",
   },
   {
     id: 0,
     name: "Yash Devkate",
-    avatar: "../assets/img/team/Shreya_lead_23.jfif",
+    avatar: "../assets/img/team/yash.png",
     badges: `
                     <span class="blue">2023</span>
                     <span class="green">GDSC</span>
@@ -46,14 +46,14 @@ let leadMemberDetails2023 = [
                 `,
     cardBorderColor: "red",
 
-    socialGithubLink: "https://github.com/zugzwang03",
-    socialLinkedinLink: "https://www.linkedin.com/in/shreya-sarkar-a788b4225/",
-    socialTwitterLink: "https://twitter.com/zugzwang03",
+    socialGithubLink: "",
+    socialLinkedinLink: "",
+    socialTwitterLink: "",
   },
   {
     id: 0,
     name: "Samiksha Mendhe",
-    avatar: "../assets/img/team/Shreya_lead_23.jfif",
+    avatar: "../assets/img/team/samiksha.png",
     badges: `
                     <span class="blue">2023</span>
                     <span class="green">GDSC</span>
@@ -61,9 +61,9 @@ let leadMemberDetails2023 = [
                 `,
     cardBorderColor: "red",
 
-    socialGithubLink: "https://github.com/zugzwang03",
-    socialLinkedinLink: "https://www.linkedin.com/in/shreya-sarkar-a788b4225/",
-    socialTwitterLink: "https://twitter.com/zugzwang03",
+    socialGithubLink: "",
+    socialLinkedinLink: "",
+    socialTwitterLink: "",
   }
   
 ];
@@ -73,10 +73,10 @@ let coreMembersDetails2023 = [
   {
     id:0,
     name:"Param Chauragade",
-    avatar: "../assets/img/team/Zaid_Mahmud.jfif",
+    avatar: "../assets/img/team/param.png",
     badges: `
       <span class="green">Web Devlopment</span>
-      <span class="blue">Lead</span>
+      <span class="blue">Head</span>
       `,
     cardBorderColor: "red",
     socialGithubLink: "",
@@ -86,10 +86,10 @@ let coreMembersDetails2023 = [
   {
     id:1,
     name:"Yash Raut",
-    avatar: "../assets/img/team/Arjun_Choudhury.jfif",
+    avatar: "../assets/img/team/raut.png",
     badges: `
       <span class="red">Android Development</span>
-      <span class="yellow">Lead</span>
+      <span class="yellow">Head</span>
     `,
     cardBorderColor: "blue",
     socialGithubLink: "",
@@ -99,20 +99,20 @@ let coreMembersDetails2023 = [
   {
     id:2,
     name:"Sameer Tarare",
-    avatar: "../assets/img/team/Sayan_Majumder.jfif",
+    avatar: "../assets/img/team/sameer.png",
     badges: `
       <span class="blue">Cybersecurity</span>
       <span class="red">Head</span>
     `,
     cardBorderColor: "green",
-    socialGithubLink: "https://github.com/Sayan404",
-    socialLinkedinLink: "https://www.linkedin.com/in/sayan404",
-    socialTwitterLink: "https://twitter.com/SayMa404",
+    socialGithubLink: "",
+    socialLinkedinLink: "",
+    socialTwitterLink: "",
   },
   {
     id:3,
     name:"Rahul Salame",
-    avatar: "../assets/img/team/Abhigyan_Singh.jfif",
+    avatar: "../assets/img/team/rahul.png",
     badges: `
       <span class="green">Management Team</span>
       <span class="blue">Head</span>
@@ -125,7 +125,7 @@ let coreMembersDetails2023 = [
   {
     id:4,
     name:"Sujal Taware",
-    avatar: "../assets/img/team/Dhiraj_Thakur.jfif",
+    avatar: "../assets/img/team/sujal.png",
     badges: `
       <span class="green">Design and Content Team</span>
       <span class="red">Head</span>
